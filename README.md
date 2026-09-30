@@ -46,4 +46,3 @@ Clique no mapa. A latitude e longitude devem aparecer na parte inferior e em uma
 ## 5. APK
 
 [APK](assets/app-release.apk)
-"# flutter_map" 
