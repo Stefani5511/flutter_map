@@ -1,6 +1,6 @@
 # Flutter Map — Obter Coordenadas
 
-## O que o aplicativo faz
+## Funcionalidades
 
 * Exibe um mapa.
 * Ao clicar em um ponto do mapa, captura latitude e longitude.
@@ -39,10 +39,10 @@ flutter run
 
 Clique no mapa. A latitude e longitude devem aparecer na parte inferior e em uma mensagem na tela, e um marcador vermelho será colocado no ponto.
 
-## 4. Print do app
+## Screenshot
 
-![Print do aplicativo](assets/print.png)
+![Screenshot do aplicativo](assets/print.png)
 
-## 5. APK
+## APK
 
 [Clique para baixar o APK](assets/app-release.apk)
