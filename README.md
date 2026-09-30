@@ -23,7 +23,7 @@ Clone o repositório para sua máquina local.
 
 ### 2. Abrir o projeto
 
-Abra esta pasta no VS Code ou Android Studio e abra o terminal nela.
+Abra esta pasta no VS Code e abra o terminal.
 
 ### 2. Baixar as dependências
 
